@@ -1,1 +1,7 @@
-Test
+1.0.0.2
+https://github.com/Battlewarrior02/battlewarrior02.github.io/raw/main/Dictator%20Combat%20Calculator%20Mk3.exe
+
+
+[Update]
+Version=1.0.0.2
+URL=https://github.com/Battlewarrior02/battlewarrior02.github.io/raw/main/Dictator%20Combat%20Calculator%20Mk3.exe
